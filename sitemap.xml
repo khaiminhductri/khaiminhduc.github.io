@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://khaiminhduc.edu.vn/categories/</loc>
+    <loc>http://khaiminhduc.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://khaiminhduc.edu.vn/tags/</loc>
+    <loc>http://khaiminhduc.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://khaiminhduc.edu.vn/</loc>
+    <loc>http://khaiminhduc.com/</loc>
     <priority>0</priority>
   </url>
   
